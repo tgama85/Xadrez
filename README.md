@@ -6,6 +6,6 @@ Recursos usados:
  - CSS3 (flip card com carousel)
 
 Mostra de página
-![](https://i.imgur.com/G7lierX.png)
+![](https://i.imgur.com/65mP1nl.png)
 
 Veja a página funcionando no Repl.it clicando [aqui](https://xadrez.tgama85.repl.co/).
